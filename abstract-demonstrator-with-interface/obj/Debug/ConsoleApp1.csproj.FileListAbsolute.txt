@@ -12,3 +12,10 @@ C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\abstract-class-de
 C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\abstract-class-demonstrator-with-interface-quit\abstract-class-demonstrator\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\abstract-class-demonstrator-with-interface-quit\abstract-class-demonstrator\obj\Debug\ConsoleApp1.exe
 C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\abstract-class-demonstrator-with-interface-quit\abstract-class-demonstrator\obj\Debug\ConsoleApp1.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\test\abstract-demonstrator-with-interface\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\test\abstract-demonstrator-with-interface\bin\Debug\ConsoleApp1.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\test\abstract-demonstrator-with-interface\bin\Debug\ConsoleApp1.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\test\abstract-demonstrator-with-interface\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\test\abstract-demonstrator-with-interface\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\test\abstract-demonstrator-with-interface\obj\Debug\ConsoleApp1.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\test\abstract-demonstrator-with-interface\obj\Debug\ConsoleApp1.pdb
